@@ -1,0 +1,17 @@
+.main {
+    width: 80%;
+    margin: auto;
+    margin-top: 12rem;
+}
+
+.title {
+    font-size: 6rem;
+    margin: 0;
+    font-weight: 900;
+}
+
+.latest {
+    font-size: 2.5rem;
+    margin-top: 5rem;
+    color: #E9D82D;
+}
